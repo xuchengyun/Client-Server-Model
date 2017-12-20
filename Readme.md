@@ -1,6 +1,5 @@
-Readme.txt
 The project is intended for TCP communication for both message and file transfer among multiple hosts.
-To realize the following function please do as follows:
+Please do as follows to realize the following functions:
 
 (1) For broadcasting a message: (Any client is able to send a text to the server, which will relay it to all other clients for display.)
 Type in “broadcast message” in the client terminal
